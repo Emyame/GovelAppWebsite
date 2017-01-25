@@ -3644,7 +3644,7 @@
 		justify-content: center;
 		background-image: url("images/overlay.png"), url("images/pattern-size1.svg"), url("images/background.jpg");
 		background-position: top left, center center;
-		background-attachment: fixed, fixed;
+		background-attachment: scroll, scroll;
 		background-size: auto, cover;
 		height: 100vh;
 		min-height: 35em;
